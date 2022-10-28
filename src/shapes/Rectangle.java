@@ -34,8 +34,8 @@ public class Rectangle {
 	
 	public void printStats() {
 		System.out.println("Rectangle");
-		System.out.println("Width= "+this.width);
 		System.out.println("Length= "+this.length);
+		System.out.println("Width= "+this.width);
 		System.out.println("Perimeter= "+this.perimeter);
 		System.out.println("Area= "+this.area);
 	}
