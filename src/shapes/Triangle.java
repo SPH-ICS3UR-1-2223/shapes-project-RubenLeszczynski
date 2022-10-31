@@ -32,6 +32,7 @@ public class Triangle {
 		System.out.println("Triangle");
 		System.out.println("Side A= "+this.sideA);
 		System.out.println("Side B= "+this.sideB);
+		System.out.println("Side C= "+this.sideC);
 		System.out.println("Perimeter= "+this.perimeter);
 		System.out.println("Area= "+this.area);
 	}
